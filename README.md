@@ -1,4 +1,3 @@
-# AI-Calender-reminder-agent
 # 🤖 AI Calendar Booking Assistant
 
 A sophisticated conversational AI system for calendar management, featuring advanced NLP, personality adaptation, and enterprise-grade error handling.
